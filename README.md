@@ -1,9 +1,9 @@
 # Hola!!!, I'm Sai Rahul 
 
-## I'm a Senior Software Engineer
-## Working in Qentelli
+I'm a Senior Software Engineer
+Working in Qentelli
 
-[![Linkedin: sairahul-d](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairahul-d/)](https://www.linkedin.com/in/sairahul-d/)
+[![Linkedin: sairahul-d](https://img.shields.io/badge/-sairahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairahul-d/)](https://www.linkedin.com/in/sairahul-d/)
 
 - 🔭 I’m currently working on QA Automation
 - 🌱 I’m currently learning Protractor
