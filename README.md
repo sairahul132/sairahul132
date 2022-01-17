@@ -1,7 +1,7 @@
 # <b>Hola!!!, <i> I'm Sai Rahul</i> </b>
 
  <b>I'm a Senior Software Engineer</b><br>
- <b>Working in <span style="color: navy">Qentelli, India</b></span><br><br>
+ <b>Working in <span style="color: green">Qentelli, India</b></span><br><br>
 ![Free Lance](https://img.shields.io/badge/Free%20Lance-Available-green?style=social&logo=appveyor&logoColor=green&textcolor=green)
 
 [![Linkedin: sairahul-d](https://img.shields.io/badge/-SaiRahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairahul-d/)](https://www.linkedin.com/in/sairahul-d/)
