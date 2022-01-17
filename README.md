@@ -1,7 +1,7 @@
 # Hola!!!, I'm Sai Rahul 
 
-I'm a Senior Software Engineer
-Working in Qentelli
+<b>I'm a Senior Software Engineer<br></b>
+<b>Working in Qentelli</b>
 
 [![Linkedin: sairahul-d](https://img.shields.io/badge/-sairahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairahul-d/)](https://www.linkedin.com/in/sairahul-d/)
 
