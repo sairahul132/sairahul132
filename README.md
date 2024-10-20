@@ -12,9 +12,9 @@
 ## About Me <img src="https://cdn.dribbble.com/users/561/screenshots/3571000/robot.gif" width="40"> 
 
 - 💻 I’m currently working on QA Automation
-- 🌱 I’m currently learning Protractor
+- 🌱 I’m currently learning Devops
 - 💌 How to reach me: sairahultest@gmail.com
-- 😂 Fun fact: I make Video Editing for short films. 
+- 😂 Fun fact: I make Video Editing & Games. 
   <br><br>
 ![Software Testing](https://img.shields.io/badge/Ask%20Me-Software%20Testing-red)
 ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-green)
