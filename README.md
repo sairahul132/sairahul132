@@ -11,10 +11,9 @@
 
 ## About Me <img src="https://cdn.dribbble.com/users/561/screenshots/3571000/robot.gif" width="40"> 
 
-- 💻 I’m currently working on QA Automation
-- 🌱 I’m currently learning Devops
+- 💻 I’m currently working on Senior Test Automation Engineer.
 - 💌 How to reach me: sairahultest@gmail.com
-- 😂 Fun fact: I make Video Editing & Games. 
+- 😂 Fun fact: I love photography. 
   <br><br>
 ![Software Testing](https://img.shields.io/badge/Ask%20Me-Software%20Testing-red)
 ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-green)
@@ -23,7 +22,9 @@
 ## Technology & Domains.
 
 - Manual Testing
-- Automation Testing 
+- Automation Testing
+- Database Testing
+- API Testing   
 - Perfomance Testing
 - E-commerce, Health Care, Banking, Insurance
 
